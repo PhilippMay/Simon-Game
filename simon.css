@@ -1,0 +1,39 @@
+body {
+    background-color: whitesmoke;
+}
+
+.container-fluid {
+    position: relative;
+    top: 30%;
+}
+
+#adjust { 
+  
+}
+svg {
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+
+}
+#display {
+    color: aliceblue;
+    background-color: #4cb749;
+    padding: 9px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+div.control {
+    display: table;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+h3 {text-align: center}
+.control input {padding-right: 10px;}
+.control form {padding-top: 10px; margin: 0}
